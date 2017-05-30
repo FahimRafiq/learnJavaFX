@@ -1,9 +1,12 @@
 package sample;
 
 import javafx.event.ActionEvent;
+import javafx.fxml.Initializable;
 
-public class Controller {
-    void print(ActionEvent event) {
+import java.net.URL;
+import java.util.ResourceBundle;
 
-    }
+public class Controller{
+
 }
+
